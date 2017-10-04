@@ -53,13 +53,13 @@ to calculate the the meanY feature for the files.
 
 We then calculate them for each of the 4 types of features, and merge them using the merge code.
 
-##Libraries
+## Libraries
 
-scikit-learn
-nolds for dfa calculation( https://pypi.python.org/pypi/nolds )
-numpy, scipy
+- scikit-learn
+- nolds for dfa calculation( https://pypi.python.org/pypi/nolds )
+- numpy, scipy
 
-Python Version - 3.6
+- Python Version 3.6
 
 
 
